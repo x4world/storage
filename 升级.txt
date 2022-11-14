@@ -1,5 +1,0 @@
-ftp://heyiftp:heyikeji2017@202.102.86.181:21/TBOX_A4_GD_20221108.bin
-
-ftp://heyiftp:heyikeji2017@202.102.86.181:21/TBOX_A4_20221108.bin
-
-ftp://heyiftp:heyikeji2017@202.102.86.181:21/TBOX1.5_GD_A1_20221108.bin
